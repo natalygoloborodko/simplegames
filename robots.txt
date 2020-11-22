@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Disallow:
+
+Disallow: /cgi-bin
+Disallow: /forum
+Disallow: /phorum
+Disallow: /phpbb
+Disallow: /phpBB
+Disallow: /js
+Disallow: /ts
+Disallow: /css
